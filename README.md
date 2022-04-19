@@ -1,5 +1,5 @@
 # mtCloudSim
-mtCloudSim is a flow-level network simulator for multi-tenant Cloud
+mtCloudSim is a flow-level simulator for multi-tenant Cloud data center network
 
 This simulator is downloaded for free. If you use the simulator, please cite the following paper.
 
